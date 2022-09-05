@@ -1,5 +1,5 @@
 # School_District_Analysis
-School_District_Analysis
+
 ## Overview of the school district analysis
 
 We will be helping maria, a chief Data Scientist for a city school district, to analyse data on student funding and students standardized test scores. We aggregate the data and showcase trends based on school performance.
